@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: "maven"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    groups:
+      jackson-group:
+        patterns:
+          - "com.fasterxml.jackson.core:jackson-databind"
+          - "com.fasterxml.jackson.core:jackson-core"
