@@ -9,3 +9,7 @@ updates:
         patterns:
           - "com.fasterxml.jackson.core:jackson-databind"
           - "com.fasterxml.jackson.core:jackson-core"
+      spring:
+        patterns:
+          - "org.springframework"
+          - "org.springframework.boot"
