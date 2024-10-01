@@ -12,4 +12,4 @@ updates:
       spring:
         patterns:
           - "org.springframework.boot:*"
-          - "org.springframework:spring-*"
+          - "org.springframework:*"
