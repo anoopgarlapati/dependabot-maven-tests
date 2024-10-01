@@ -19,7 +19,7 @@
             <version>2.18.0</version>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
+            <artifactId>spring-boot-starter</artifactId>
             <version>3.3.3</version>
         </dependency>
         <dependency>
